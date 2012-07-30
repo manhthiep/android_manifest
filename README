@@ -5,7 +5,7 @@
 
 2 - Downloading the Source Tree (http://source.android.com/source/downloading.html)
 	
-	repo init -u git://github.com/manhthiep/android.git -b ics
+	repo init -u git://github.com/manhthiep/android_manifest.git -b ics
 
 	repo sync
 
