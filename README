@@ -1,0 +1,23 @@
+
+1 - Initializing a Build Environment
+	
+	http://source.android.com/source/initializing.html
+
+2 - Downloading the Source Tree (http://source.android.com/source/downloading.html)
+	
+	repo init -u git://github.com/manhthiep/android.git -b ics
+
+	repo sync
+
+3 - Building Android
+
+	. build/envsetup.sh
+
+	lunch
+
+	<choose device>
+
+	make 
+or
+	make otapackage
+
