@@ -27,7 +27,7 @@
   <!--<project path="device/generic/goldfish" name="device/generic/goldfish" />-->
   <!--<project path="device/google/accessory/arduino" name="device/google/accessory/arduino" />-->
   <!--<project path="device/google/accessory/demokit" name="device/google/accessory/demokit" />-->
-  <project path="device/htc/common" name="android_device_htc_leo" remote="manhthiep" revision="refs/tags/android-4.0.4_r2.1" />
+  <project path="device/htc/common" name="android_device_htc_leo" remote="manhthiep" revision="ics" />
   <!--<project path="device/moto/common" name="device/moto/common" />-->
   <!--<project path="device/moto/stingray" name="device/moto/stingray" />-->
   <!--<project path="device/moto/wingray" name="device/moto/wingray" />-->
