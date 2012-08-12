@@ -261,9 +261,9 @@
   <project path="vendor/qcom/opensource/v8" name="android_vendor_qcom_opensource_v8" remote="Evervolv" revision="ics" />
 
   <!-- Evervolv stuffs -->
-  <project path="external/compat-wireless-3.5-rc3-1-sn" name="android_external_compat-wireless-3.5-rc3-1-sn" remote="github" revision="ics" />
-  <project path="external/htop" name="android_external_htop" remote="github" revision="ics" />
-  <project path="external/nano" name="android_external_nano" remote="github" revision="ics" />
-  <project path="external/rsync" name="android_external_rsync" remote="github" revision="ics" />
+  <project path="external/compat-wireless-3.5-rc3-1-sn" name="android_external_compat-wireless-3.5-rc3-1-sn" remote="Evervolv" revision="ics" />
+  <project path="external/htop" name="android_external_htop" remote="Evervolv" revision="ics" />
+  <project path="external/nano" name="android_external_nano" remote="Evervolv" revision="ics" />
+  <project path="external/rsync" name="android_external_rsync" remote="Evervolv" revision="ics" />
   
 </manifest>
